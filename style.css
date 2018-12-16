@@ -153,6 +153,11 @@ div {
   margin-bottom: 10px;
 }
 
+.contact-title{
+    margin-top: 100px;
+    text-align: center;
+}
+
 h1 {
   font-family: fantasy;
   font-size: 60px;
